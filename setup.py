@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
 	name='py_ext_to_format',
-	version='0.0.1',
+	version='0.0.2',
 	author='Elon Salfati',
 	author_email='elon@salfati.io',
 	description='A simple tool to convert file extensions to file formats',
